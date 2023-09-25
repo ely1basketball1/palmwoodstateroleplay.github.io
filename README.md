@@ -1,5 +1,8 @@
 # Staff Handbook
 PalmWood State Roleplay 
 
-## Introduction 
-> 
+# Introduction 
+> (Enter Introduction Here)
+
+# Staff Rules & Regulations 
+**Infractions** - You must log all infractions. 
