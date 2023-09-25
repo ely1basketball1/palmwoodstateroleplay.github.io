@@ -1,10 +1,10 @@
 # Staff Handbook
-PalmWood State Roleplay
+
 
 # Introduction 
-Welcome to the official PalmWood State Roleplay Staff Handbook. This handbook is to be used by official staff members. Unauthorized leaking or plagerizim of this document will result in a ban from PalmWood State Roleplay. 
+Welcome to the official PalmWood State Roleplay Staff Handbook. This handbook is to be used by official staff members. Unauthorized leaking or plagiarism of this document will result in a ban from PalmWood State Roleplay. 
 
-# Staff Information & Expectations 
+# Staff Information
 
 # Staff Rules & Regulations 
 
