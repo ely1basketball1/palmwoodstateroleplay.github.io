@@ -4,6 +4,8 @@ PalmWood State Roleplay
 # Introduction 
 (Enter Introduction Here)
 
+# Staff Information & Expectations 
+
 # Staff Rules & Regulations 
 
 # Staff Chain of Command
@@ -27,3 +29,9 @@ PalmWood State Roleplay
 
 **Moderation Team**
 (Description)
+
+# Punishments
+
+# Formats
+
+# Rule Briefing
