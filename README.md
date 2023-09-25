@@ -1,29 +1,29 @@
 # Staff Handbook
-PalmWood State Roleplay 
+PalmWood State Roleplay
 
 # Introduction 
-> (Enter Introduction Here)
+(Enter Introduction Here)
 
 # Staff Rules & Regulations 
 
 # Staff Chain of Command
 **Director**
-> (Description)
+(Description)
 
 **Deputy Director**
-> (Description)
+(Description)
 
 **Assistant Director**
-> (Description)
+(Description)
 
 **Management Team**
-> (Description)
+(Description)
 
 **Internal Affairs Team**
-> (Description)
+(Description)
 
 **Administration Team**
-> (Description)
+(Description)
 
 **Moderation Team**
-> (Description)
+(Description)
