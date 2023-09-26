@@ -7,7 +7,10 @@ Welcome to the official PalmWood State Roleplay Staff Handbook. This handbook is
 # Staff Information
 
 # Staff Rules & Regulations 
-
+**Respect**
+You must respect all community or staff members under all circumstances.
+**a.** You must address them as their proper pronouns.
+**b.** 
 # Staff Chain of Command
 **Director**
 (Description)
